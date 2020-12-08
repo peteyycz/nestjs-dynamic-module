@@ -1,0 +1,1 @@
+export const CONFIG_TOKEN = 'REDIS_CONFIG_TOKEN';
